@@ -22,3 +22,6 @@ uploads/profile_image/banner/*
 nbproject
 .idea/*
 .gitmodules
+
+# Vagrant
+.vagrant
