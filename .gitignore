@@ -25,3 +25,6 @@ nbproject
 
 # Vagrant
 .vagrant
+
+# Mac
+.DS_Store
