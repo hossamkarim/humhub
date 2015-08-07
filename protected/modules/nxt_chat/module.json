@@ -1,0 +1,9 @@
+{
+    "id": "nxt_chat",
+    "name": "Nextechnology - Chat",
+    "description": "Chat App",
+    "keywords": [
+        "core"
+    ],
+    "version": "1.0"
+}
